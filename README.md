@@ -42,6 +42,7 @@ This project showcases how to build, deploy, and verify NFTs on-chain, using **I
 <div align="center">
   
 ## 📂 Project Structure
+![Fox NFT Banner](FOxNFTStructure.png)
 </div>
 
 
