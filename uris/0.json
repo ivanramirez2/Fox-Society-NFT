@@ -1,0 +1,11 @@
+{
+    "name": "Foxi Blaze NFT 0",
+    "description": "NFT collection Urban Fox Society",
+    "image": "ipfs://bafybeia6zmppyg2s5ohwkcon2mgx4h7f2zjhqwkiuzrhknzyenyx6zoszi",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "0"
+        }
+    ]
+}

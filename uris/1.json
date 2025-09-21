@@ -1,0 +1,11 @@
+{
+    "name": "Vixel Shadow NFT 1",
+    "description": "NFT collection by Blockchain Accelerator - Ivan Ramirez",
+    "image": "ipfs://bafybeib523wdygvtbu4ld7uu4jce5ksjqjk4jfsycrwkyr5cmv6mzcq5zm",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1"
+        }
+    ]
+}
